@@ -9,7 +9,7 @@ This repo contains [N8N](https://n8n.io/) node to work with Atlassian's [Conflue
 
 ## Need help or have questions?
 
-Need guidance on leveraging AI agents or N8N for your business? Our AI Agents workshop will equip you with the knowledge and tools necessary to implement successful and valuable agentic workflows.
+Need guidance on leveraging AI agents or N8N for your business? Our [AI Agents workshop](https://hubs.ly/Q02X-9Qq0) will equip you with the knowledge and tools necessary to implement successful and valuable agentic workflows.
 
 ## License
 
